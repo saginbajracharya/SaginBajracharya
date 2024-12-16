@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @saginbajracharya
-- 👀  I’m interested in working on projects /games/apps/websites/softwares/...
+- 👀  Interested in **games**, **apps**, **websites**, and **software projects**
 - 🌱  Currently exploring **Flutter** and **Full Stack Development**
 - 💞️  Open to **collaboration** on open-source and personal projects
 - 📫  Email: saginbajracharya09@gmail.com
