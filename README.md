@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @saginbajracharya
 - 👀  I’m interested in working on projects /games/apps/websites/softwares/...
-- 🌱  I’m fluttering
-- 💞️  I’m looking to collaborate on any projects i can be help open source/personal projects
+- 🌱  Currently exploring **Flutter** and **Full Stack Development**
+- 💞️  Open to **collaboration** on open-source and personal projects
 - 📫  Email: saginbajracharya09@gmail.com
 - 📞  phone: +9779813983757 || +9779828133556
 - 🌐  https://dlofistudio.com/
