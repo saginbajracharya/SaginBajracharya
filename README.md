@@ -5,7 +5,7 @@
 - 📫  Email: saginbajracharya09@gmail.com || dlofistu@dlofistudio.com
 - 📞  Phone: +9779813983757 || +9779828133556
 - 🌐  https://dlofistudio.com/
-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=saginbajracharya)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=saginbajracharya&left_color=green&right_color=red)
 <!---
 saginbajracharya/saginbajracharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
